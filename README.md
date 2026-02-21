@@ -14,17 +14,14 @@ Familiar with implementation of different databases for the product, worked with
 ### Architectures
 DDD (Domain-Driven Design), Microservice
 
+<img src="https://upload.wikimedia.org" width="25" height="25"> [![DDD](https://img.shields.io)](https://dddcommunity.org)
+<img src="https://microservices.io" width="25" height="25"> [![Microservices](https://img.shields.io)](https://microservices.io)
+
 ---
 
 ## Key programming languages and there libraries
 ### Python
 FastAPI, Flask, Transformers, LangChain, PyTorch, Scikit Learn, NumPy, Pandas, Matplotlib
-[![LangChain](https://img.shields.io)](https://python.langchain.com)
-[![PyTorch](https://img.shields.io)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io)](https://scikit-learn.org)
-[![NumPy](https://img.shields.io)](https://numpy.org)
-[![Pandas](https://img.shields.io)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io)](https://matplotlib.org)
 
 ## Additional programming languages with whom I known
 #### Delphi (Pascal)
