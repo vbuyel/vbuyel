@@ -14,9 +14,6 @@ Familiar with implementation of different databases for the product, worked with
 ### Architectures
 DDD (Domain-Driven Design), Microservice
 
-<img src="https://upload.wikimedia.org" width="25" height="25"> [![DDD](https://img.shields.io)](https://dddcommunity.org)
-<img src="https://microservices.io" width="25" height="25"> [![Microservices](https://img.shields.io)](https://microservices.io)
-
 ---
 
 ## Key programming languages and there libraries
