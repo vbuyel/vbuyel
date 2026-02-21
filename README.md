@@ -21,9 +21,9 @@ DDD (Domain-Driven Design), Microservice
 FastAPI, Flask, Transformers, LangChain, PyTorch, Scikit Learn, NumPy, Pandas, Matplotlib
 
 ## Additional programming languages with whom I known
-### Delphi (Pascal)
-### C/C++
-### Java
-### JavaScript/TypeScript
+#### Delphi (Pascal)
+#### C/C++
+#### Java
+#### JavaScript/TypeScript
 
 
