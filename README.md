@@ -6,7 +6,12 @@ Engineer with 1+ year experience in developing software with different architect
 
 ## 💻 Core experience
 ### LLMs & NLP
-HuggingFace, Prompt Engineering, Ollama, Retrieval-Augmented Generation, Fine-tunning
+<-- HuggingFace, Prompt Engineering, Ollama, Retrieval-Augmented Generation, Fine-tunning -->
+![HuggingFace](https://img.shields.io)
+![Prompt Engineering](https://img.shields.io)
+![Ollama](https://img.shields.io)
+![RAG](https://img.shields.io)
+![Fine-Tuning](https://img.shields.io)
 
 ### Database
 Familiar with implementation of different databases for the product, worked with PostgreSQL
