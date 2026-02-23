@@ -25,7 +25,6 @@ Engineer with 1+ year of experience developing software with various architectur
 ## 🛠️ Key Languages and Libraries
 
 ### 🐍 Python
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFA000?style=for-the-badge&logo=huggingface&logoColor=white)
