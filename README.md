@@ -1,7 +1,4 @@
 # [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">] Hi, I'm Vlad
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-<a href="https://linkedin.com/in/yourusername"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-<a href="https://twitter.com/yourusername"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="35"/></a> 
 
 ## And I am AI Systems Engineer 🛠️
 
@@ -28,27 +25,6 @@ I am an AI Systems Engineer focused on transforming AI prototypes into scalable,
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbuyel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Connect With Me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
-
-<br />
-
-[linkedin]: https://linkedin.com/in/yourusername
-[twitter]: https://twitter.com/yourusername
-[email]: mailto:your-email@example.com
-
----
-## Support Me!
-You can show support by starring my repos. It means a lot!
-
-Cheers!! 🍻 
-Thank you so much 🙏
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vbuyel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
