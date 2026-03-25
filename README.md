@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Vlad
 
-## And I am AI Systems Engineer 🛠️
+## And I am AI Software Engineer 🛠️
 
 I am an AI Systems Engineer focused on transforming AI prototypes into scalable, production-ready products. I bridge the gap between low-level engineering and modern Generative AI.
 
