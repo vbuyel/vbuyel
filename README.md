@@ -16,10 +16,10 @@ I am an AI Systems Engineer focused on transforming AI prototypes into scalable,
 
 | Category | Technologies |
 | :--- | :--- |
-| **GenAI / ML** | Python, PyTorch, Transformers, RAG, LangChain, LlamaIndex |
-| **Backend** | Python (FastAPI/Asyncio), C++, Rust (Optional) |
+| **GenAI / ML** | Python, PyTorch, Transformers, RAG, LangChain |
+| **Backend** | Python (FastAPI/Asyncio), C++ |
 | **Architecture** | Microservices, DDD, Event-Driven, System Design |
-| **Data & Infra** | Kafka, PostgreSQL, Vector DBs (Chroma/Pinecone), Docker, MLOps |
+| **Data & Infra** | Kafka, PostgreSQL, Vector DBs, Docker, MLOps |
 
 ---
 
