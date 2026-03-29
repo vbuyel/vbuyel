@@ -26,5 +26,3 @@ I am an AI Systems Engineer focused on transforming AI prototypes into scalable,
 ## My GitHub Stats 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbuyel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vbuyel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
