@@ -2,7 +2,7 @@
 
 ## And I am AI Software Engineer 🛠️
 
-I am an AI Systems Engineer focused on transforming AI prototypes into scalable, production-ready products. I bridge the gap between low-level engineering and modern Generative AI.
+I am an AI Software Engineer focused on building resilient, production-ready AI systems. I specialize in developing advanced AI Agents and RAG pipelines where performance, observability, and scalability are baked in by design.
 
 - **GenAI**: RAG, LLM Agents, Fine-tuning, Vector DBs
 - **Architecture**: Microservices, Event-Driven Systems, TDD/DDD, Scalable System Design
@@ -10,7 +10,7 @@ I am an AI Systems Engineer focused on transforming AI prototypes into scalable,
 
 ---
 
-## Technical Stack 🧰
+## Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
