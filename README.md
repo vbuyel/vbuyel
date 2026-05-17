@@ -24,7 +24,7 @@ Core Focus:
 
 ## My GitHub Stats
 
-![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=8&hide_border=true)
+![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=buyel&layout=compact&langs_count=8&hide_border=true)
 
 ## Experiance
 
