@@ -39,7 +39,7 @@ Core Focus:
 Information Technology Software (Software Engineer)
 `2024 — 2028`
 
-## Языки
+## Languages
 
 - Russian — native
 - English — B1
