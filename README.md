@@ -24,8 +24,6 @@ Core Focus:
 
 ## My GitHub Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbuyel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
 ![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=8&hide_border=true)
 
 ## Experiance
