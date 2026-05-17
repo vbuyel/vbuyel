@@ -24,7 +24,13 @@ Core Focus:
 
 ## My GitHub Stats
 
-![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=8&hide_border=true)
+<!-- ![Vlad's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=8&hide_border=true) -->
+<p align="center">
+<a href="https://github.com/vbuyel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vbuyel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## Experiance
 
