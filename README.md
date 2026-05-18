@@ -4,21 +4,15 @@
 
 I am an AI Software Engineer focused on building resilient, production-ready AI systems. I specialize in developing advanced AI Agents and RAG pipelines where performance, observability, and scalability are baked in by design.
 
-Core Focus:
-- **GenAI**: RAG, LLM Agents, Vector DBs
-- **Architecture**: Microservices, Event-Driven Systems, TDD/DDD, Scalable System Design
-- **Backend**: Kafka, Docker, Google Cloud Platform
-
 ---
 
 ## Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **GenAI / ML** | PyTorch, Transformers, RAG, LangChain |
-| **Backend** | Python (FastAPI/Asyncio) |
+| **GenAI** | RAG, LLM Agents, Vector DBs |
 | **Architecture** | Microservices, DDD, Event-Driven, System Design |
-| **Data & Infra** | Kafka, PostgreSQL, Vector DBs, Docker, GCP |
+| **Data & Infra** | Kafka, PostgreSQL, Docker, GCP |
 
 ---
 
