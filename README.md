@@ -33,7 +33,7 @@ Core Focus:
 
 ## Experiance
 
-### `CarAd.by` — Data Scientist
+### `CarAd.by` — Data Scientist and Data Engineer
 **April 2026 — Present**
 
 ## Education
