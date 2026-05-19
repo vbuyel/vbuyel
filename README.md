@@ -2,7 +2,7 @@
 
 ## And I am AI Software Engineer
 
-I am an AI Software Engineer focused on building scalable AI/backend systems and experimenting with production-oriented architecture.
+Focused on building scalable AI/backend systems and experimenting with production-oriented architecture.
 
 ---
 
