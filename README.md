@@ -2,7 +2,7 @@
 
 ## And I am AI Software Engineer
 
-I am an AI Software Engineer focused on building resilient, production-ready AI systems. I specialize in developing advanced AI Agents and RAG pipelines where performance, observability, and scalability are baked in by design.
+I am an AI Software Engineer focused on building scalable AI/backend systems and experimenting with production-oriented architecture.
 
 ---
 
