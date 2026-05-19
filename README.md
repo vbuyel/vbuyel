@@ -11,8 +11,8 @@ Focused on building scalable AI/backend systems and experimenting with productio
 | Category | Technologies |
 | :--- | :--- |
 | **GenAI** | RAG, LLM Agents, Vector DBs |
-| **Architecture** | Microservices, DDD, Event-Driven, System Design |
-| **Data & Infra** | Kafka, PostgreSQL, Docker, GCP |
+| **Architecture** | Microservices, DDD, Event-Driven, Distributed Systems |
+| **Data & Infra** | Kafka, PostgreSQL, Docker |
 
 ---
 
