@@ -18,12 +18,12 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 ## GitHub Analitics
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/vbuyel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vbuyel&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vbuyel&layout=compact&langs_count=6"/>
 </a>
-</p>
+</p> -->
 
 ## Experiance
 
@@ -33,10 +33,10 @@ Focused on building scalable AI/backend systems and experimenting with productio
 ## Education
 
 **BSUIR**
-Information Technology Software (Software Engineer)
+Computer Science (Bachelor Degree)
 `2024 — 2028`
 
 ## Languages
 
-- Russian — native
+- Russian — Native
 - English — B1
