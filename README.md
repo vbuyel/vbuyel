@@ -16,7 +16,7 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 ---
 
-## GitHub Analitics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/vbuyel">
