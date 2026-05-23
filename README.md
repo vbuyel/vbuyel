@@ -38,6 +38,6 @@ Computer Science (Bachelor Degree)
 
 ## Languages
 
-- Belarussian - Native
+- Belarussian — Native
 - Russian — Native
 - English — B1+
