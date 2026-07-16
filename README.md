@@ -10,7 +10,7 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 | Category | Technologies |
 | :--- | :--- |
-| **GenAI** | RAG, LLM Systems, Vector DBs |
+| **GenAI** | RAG, LLM Systems, Vector DBs, Python, AsyncIO, FastAPI |
 | **Architecture** | Microservices, Domain-Driven Design, Event-Driven, Distributed Systems |
 | **Data & Infra** | Kafka, PostgreSQL, Docker |
 
