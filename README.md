@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Vlad
 
-## And I am AI Software Engineer
+## And I am AI/Backend Engineer
 
 Focused on building scalable AI/backend systems and experimenting with production-oriented architecture.
 
@@ -10,8 +10,8 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 | Category | Technologies |
 | :--- | :--- |
-| **GenAI** | RAG, LLM Agents, Vector DBs |
-| **Architecture** | Microservices, DDD, Event-Driven, Distributed Systems |
+| **GenAI** | RAG, LLM Systems, Vector DBs |
+| **Architecture** | Microservices, Domain-Driven Design, Event-Driven, Distributed Systems |
 | **Data & Infra** | Kafka, PostgreSQL, Docker |
 
 ---
@@ -27,7 +27,7 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 ## Experiance
 
-### `CarAd.by` — Data Scientist
+### `CarAd.by` — Software Engineer
 **April 2026 — Present**
 
 ## Education
@@ -40,4 +40,4 @@ Computer Science (Bachelor Degree)
 
 - Belarussian — Native
 - Russian — Native
-- English — B1+
+- English — B2
