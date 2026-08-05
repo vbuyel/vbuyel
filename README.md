@@ -27,7 +27,7 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 ## Experiance
 
-### `CarAd.by` — Software Engineer
+### `CarAd.by` — Data Scientist & Software Engineer
 **April 2026 — Present**
 
 ## Education
