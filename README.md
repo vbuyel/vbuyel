@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Vlad
 
-## And I am AI/Backend Engineer
+## And I am AI & Data Engineer
 
-Focused on building scalable AI/backend systems and experimenting with production-oriented architecture.
+Focused on building scalable systems and experimenting with production-oriented architecture.
 
 ---
 
@@ -27,8 +27,11 @@ Focused on building scalable AI/backend systems and experimenting with productio
 
 ## Experiance
 
+### `Innowise` — Data Engineer
+**Aug 2026 — Present**
+
 ### `CarAd.by` — Data Scientist & Software Engineer
-**April 2026 — Present**
+**April 2026 — Aug 2026**
 
 ## Education
 
